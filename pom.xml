@@ -27,13 +27,13 @@
   </build>
    <distributionManagement>
         <repository>
-            <id>deployment</id>
-            <name>Internal Releases</name>
+            <id>nexus</id>
+            <name>project3-r</name>
             <url>http://54.234.160.171:8081/repository/project3-r</url>
         </repository>
         <snapshotRepository>
-            <id>deployment</id>
-            <name>Internal Snapshot Releases</name>
+            <id>nexus</id>
+            <name>project3-s</name>
             <url>http://54.234.160.171:8081/repository/project3-s</url>
         </snapshotRepository>
     </distributionManagement>
