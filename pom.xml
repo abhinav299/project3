@@ -29,16 +29,16 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://54.173.94.51:8081/repository/maven-releases/</url>
+            <url>http://54.234.160.171:8081/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://54.173.94.51:8081/repository/maven-snapshots/</url>
+            <url>http://54.234.160.171:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
   <properties>
-         <sonar.host.url>http://44.203.135.37:9000</sonar.host.url>
+         <sonar.host.url>http://3.83.162.199:9000</sonar.host.url>
          <sonar.login>admin</sonar.login>
          <sonar.password>123456</sonar.password>
          <sonar.java.binaries>src/</sonar.java.binaries>
