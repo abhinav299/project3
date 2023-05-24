@@ -38,9 +38,9 @@
         </snapshotRepository>
     </distributionManagement>
   <properties>
-         <sonar.host.url>http://3.90.11.213:9000</sonar.host.url>
-         <sonar.login>admin</sonar.login>
-         <sonar.password>123456</sonar.password>
+         <url>http://3.90.11.213:9000</url>
+         <username>admin</username>
+         <password>123456</password>
          <sonar.java.binaries>src/</sonar.java.binaries>
     </properties>
   
