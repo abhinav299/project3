@@ -29,16 +29,16 @@
         <repository>
             <id>nexus</id>
             <name>project3-r</name>
-            <url>http://54.234.160.171:8081/repository/project3-r</url>
+            <url>http://54.237.232.217:8081/repository/project3-r</url>
         </repository>
         <snapshotRepository>
             <id>nexus</id>
             <name>project3-s</name>
-            <url>http://54.234.160.171:8081/repository/project3-s</url>
+            <url>http://54.237.232.217:8081/repository/project3-s</url>
         </snapshotRepository>
     </distributionManagement>
   <properties>
-         <sonar.host.url>http://3.83.162.199:9000</sonar.host.url>
+         <sonar.host.url>http://3.90.11.213:9000</sonar.host.url>
          <sonar.login>admin</sonar.login>
          <sonar.password>123456</sonar.password>
          <sonar.java.binaries>src/</sonar.java.binaries>
